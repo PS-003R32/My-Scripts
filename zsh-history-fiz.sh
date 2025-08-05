@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#This is an improved version of what i originally had. You can keep it simple by removing all the conditions for error handeling...;)
 ZSH_HISTORY="/home/rk800/.zsh_history"
 BACKUP_HISTORY="/home/rk800/.zsh_history.bak"
 TEMP_HISTORY="/home/rk800/.zsh_history.tmp"
